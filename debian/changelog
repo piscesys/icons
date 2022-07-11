@@ -1,3 +1,9 @@
+pisces-icons (0.9.1) misaka; urgency=medium
+
+  * fix : pisces-texteditor
+
+ -- Tsukuyomi Toki <huangzimocp@126.com> Mon, 11 Jul 2022 17:02:59 +0800
+
 pisces-icons (0.9) misaka; urgency=medium
 
   * Initial Release for Pisces.
