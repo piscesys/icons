@@ -1,6 +1,6 @@
 # Icons
 
-System default icon theme, based on [vinceliuice](https://github.com/vinceliuice)'s whitesur.
+System default icon theme, based on [vinceliuice](https://github.com/vinceliuice)'s whitesur and shengxia's qingxia
 
 ## Build and Install
 
